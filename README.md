@@ -4,11 +4,19 @@
 
 ## 下载
 
-安装包通过本仓库的 [Releases](https://github.com/fahaxiki67/biao/releases) 提供。目前尚未发布可下载版本；请以每个版本的附件、支持系统、校验值和已知问题说明为准。
+当前开发预发行版：[0.2.59-development.20261010](https://github.com/fahaxiki67/biao/releases/tag/v0.2.59-development.20261010)。
+
+- [macOS ARM64 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.2.59-development.20261010/biaojing-development-0.2.59-macos-arm64.zip)：适用于 Apple 芯片 Mac。
+- [Mac 安装说明](https://github.com/fahaxiki67/biao/releases/download/v0.2.59-development.20261010/INSTALL_MAC.md)与 [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.2.59-development.20261010/SHA256SUMS.txt)。
+- Windows 包尚未完成构建和独立验证，当前没有 Windows 下载附件。
+
+全部版本见 [Releases](https://github.com/fahaxiki67/biao/releases)。请以每个版本的附件、支持系统、校验值和已知问题说明为准。
 
 ## 开发状态
 
-会员机制保留。正式会员服务接入及部分功能仍在完善，开发版不代表所有功能已通过验收。
+会员机制保留。正式会员服务尚未接通，未授权的受保护业务入口保持不可用。部分功能仍在完善，开发版不代表所有功能已通过验收。
+
+Mac 开发包没有 Apple Developer ID 签名或公证，首次打开可能受到 macOS 限制，详见安装说明。
 
 ## 源码与资料
 
