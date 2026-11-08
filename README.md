@@ -4,17 +4,17 @@
 
 ## 当前下载
 
-[0.1.21 开发预发布版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.21-development.20261108)（2026-11-08）：
+[0.1.22 开发预发布版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.22-development.20261108)（2026-11-08）：
 
-- [macOS ARM64 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.21-development.20261108/biaojing-development-0.1.21-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
-- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.21-development.20261108/SHA256SUMS.txt)。下载后请先核对。
+- [macOS ARM64 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.22-development.20261108/biaojing-development-0.1.22-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.22-development.20261108/SHA256SUMS.txt)。下载后请先核对。
 - 首次打开受 macOS 限制时，处理方法见 [Mac 安装说明](https://github.com/fahaxiki67/biao/releases/download/v0.1.0-development.20261010/INSTALL_MAC.md)。
 
 本版的新增能力、已验证范围和暂缓事项见该版本的发布说明。
 
 ## Windows
 
-0.1.21 没有 Windows 安装包。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 64 位包是作者会员版，只开放已批准的作者邮箱登录，公众暂不可用。公众可用的 Windows 版本待实体机独立构建和验证。
+0.1.22 没有 Windows 安装包。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 64 位包是作者会员版，只开放已批准的作者邮箱登录，公众暂不可用。公众可用的 Windows 版本待实体机独立构建和验证。
 
 ## 开发状态
 
