@@ -4,7 +4,7 @@
 
 ## 当前下载
 
-[0.1.21 开发预发布版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.21-development.20261108)（2026-11-07）：
+[0.1.21 开发预发布版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.21-development.20261108)（2026-11-08）：
 
 - [macOS ARM64 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.21-development.20261108/biaojing-development-0.1.21-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
 - [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.21-development.20261108/SHA256SUMS.txt)。下载后请先核对。
