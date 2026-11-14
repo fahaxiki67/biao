@@ -4,11 +4,11 @@
 
 ## 当前下载
 
-[0.1.32 可用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.32)（2026-11-14）：
+[0.1.33 可用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.33)（2026-11-14）：
 
-- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.32/biaojing-development-0.1.32-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
-- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.32/biaojing-guide-0.1.32.docx)：安装、第一次打开、导入授权文件、基本操作。
-- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.32/SHA256SUMS.txt)。下载后请先核对。
+- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.33/biaojing-development-0.1.33-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
+- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.33/biaojing-guide-0.1.33.docx)：安装、第一次打开、导入授权文件、基本操作。
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.33/SHA256SUMS.txt)。下载后请先核对。
 - 首次打开受 macOS 限制时，到“系统设置 → 隐私与安全性”点“仍要打开”。
 
 本版能做什么、不能做什么，见该版本的发布说明。
@@ -19,11 +19,11 @@
 
 ## Windows
 
-0.1.32 没有 Windows 安装包。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 64 位包是作者会员版，只开放已批准的作者邮箱登录，公众暂不可用。公众可用的 Windows 版本待实体机独立构建和验证。
+0.1.33 没有 Windows 安装包。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 64 位包是作者会员版，只开放已批准的作者邮箱登录，公众暂不可用。公众可用的 Windows 版本待实体机独立构建和验证。
 
 ## 开发状态
 
-0.1.32 是可用版，供本人和同事日常使用；程序给出的是需要核实的线索，不是结论。之前的开发预发布版用于受控试用，不代表全部业务流程或检测方法已通过验收。保留已有业务模块、会员机制和待完善功能；正式会员服务尚未全面开通；没有登录、也没有有效授权文件时，受保护的业务入口保持不可用。
+0.1.33 是可用版，供本人和同事日常使用；程序给出的是需要核实的线索，不是结论。之前的开发预发布版用于受控试用，不代表全部业务流程或检测方法已通过验收。保留已有业务模块、会员机制和待完善功能；正式会员服务尚未全面开通；没有登录、也没有有效授权文件时，受保护的业务入口保持不可用。
 
 PDF 运行依赖为 PDFium、pypdf、pdfplumber 和 PDFminer。公开包保留对应第三方许可与声明。
 
