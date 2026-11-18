@@ -11,6 +11,13 @@
 - [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.44/SHA256SUMS.txt)。下载后请先核对。
 - 首次打开受 macOS 限制时，到“系统设置 → 隐私与安全性”点“仍要打开”。
 
+[0.1.44 Windows 版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44-windows)（2026-11-19）：
+
+- [Windows 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.44-windows/biaojing-development-0.1.44-windows-amd64.zip)：Windows 10 / 11，64 位。解压后运行 `biaojing\biaojing.exe`，不需要另装 Python。
+- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.44-windows/biaojing-guide-0.1.44-windows.docx)。
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.44-windows/SHA256SUMS.txt)。下载后请先核对。
+- 首次运行若提示“Windows 已保护你的电脑”，点“更多信息”→“仍要运行”。
+
 本版能做什么、不能做什么，见该版本的发布说明。
 
 ## 开通方式
@@ -19,7 +26,7 @@
 
 ## Windows
 
-0.1.44 没有 Windows 安装包。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 64 位包是作者会员版，只开放已批准的作者邮箱登录，公众暂不可用。公众可用的 Windows 版本待实体机独立构建和验证。
+0.1.44 有 Windows 版（见上方“当前下载”），功能与 Mac 版相同，已在一台 Windows 10 实体机上从源码独立构建并验证；Windows 版不可用的功能（单页重新识别、PDF 续读、人工侧库重置等）见[该版本的发布说明](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44-windows)。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 包是旧的作者会员版，请改用 0.1.44 Windows 版。
 
 ## 开发状态
 
@@ -27,7 +34,7 @@
 
 PDF 运行依赖为 PDFium、pypdf、pdfplumber 和 PDFminer。公开包保留对应第三方许可与声明。
 
-Mac 包没有 Apple Developer ID 签名或公证，首次打开可能受到 macOS 限制。不要关闭系统整体安全保护。
+Mac 包没有 Apple Developer ID 签名或公证，首次打开可能受到 macOS 限制。Windows 包没有代码签名，首次运行可能被 SmartScreen 拦截。不要关闭系统整体安全保护。
 
 各版本记录见 [Releases](https://github.com/fahaxiki67/biao/releases)，以各版本的附件、支持系统、校验值和已知问题说明为准。
 
