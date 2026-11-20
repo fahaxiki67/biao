@@ -4,11 +4,11 @@
 
 ## 当前下载
 
-[0.1.44 可用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44)（2026-11-15）：
+[0.1.45 可用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.45)（2026-11-19）：
 
-- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.44/biaojing-development-0.1.44-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
-- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.44/biaojing-guide-0.1.44.docx)：安装、第一次打开、导入授权文件、基本操作。
-- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.44/SHA256SUMS.txt)。下载后请先核对。
+- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.45/biaojing-development-0.1.45-macos-arm64.zip)：仅适用于 Apple 芯片 Mac，不适用于 Intel Mac。
+- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.45/biaojing-guide-0.1.45.docx)：安装、第一次打开、导入授权文件、基本操作。
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.45/SHA256SUMS.txt)。下载后请先核对。
 - 首次打开受 macOS 限制时，到“系统设置 → 隐私与安全性”点“仍要打开”。
 
 [0.1.44 Windows 版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44-windows)（2026-11-19）：
@@ -26,11 +26,11 @@
 
 ## Windows
 
-0.1.44 有 Windows 版（见上方“当前下载”），功能与 Mac 版相同，已在一台 Windows 10 实体机上从源码独立构建并验证；Windows 版不可用的功能（单页重新识别、PDF 续读、人工侧库重置等）见[该版本的发布说明](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44-windows)。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 包是旧的作者会员版，请改用 0.1.44 Windows 版。
+0.1.44 有 Windows 版（见上方“当前下载”），功能与 Mac 0.1.44 相同，已在一台 Windows 10 实体机上从源码独立构建并验证（Mac 0.1.45 带上了其中两边共用的改进，如刷新提速，检出功能不变）；Windows 版与 Mac 版的不同（人工侧库重置不可用等）见[该版本的发布说明](https://github.com/fahaxiki67/biao/releases/tag/v0.1.44-windows)。[0.1.0](https://github.com/fahaxiki67/biao/releases/tag/v0.1.0-development.20261010) 附带的 Windows 包是旧的作者会员版，请改用 0.1.44 Windows 版。
 
 ## 开发状态
 
-0.1.44 是可用版，供本人和同事日常使用；程序给出的是需要核实的线索，不是结论。之前的开发预发布版用于受控试用，不代表全部业务流程或检测方法已通过验收。保留已有业务模块、会员机制和待完善功能；正式会员服务尚未全面开通；没有登录、也没有有效授权文件时，受保护的业务入口保持不可用。
+0.1.45（Mac）和 0.1.44（Windows）是可用版，供本人和同事日常使用；程序给出的是需要核实的线索，不是结论。之前的开发预发布版用于受控试用，不代表全部业务流程或检测方法已通过验收。保留已有业务模块、会员机制和待完善功能；正式会员服务尚未全面开通；没有登录、也没有有效授权文件时，受保护的业务入口保持不可用。
 
 PDF 运行依赖为 PDFium、pypdf、pdfplumber 和 PDFminer。公开包保留对应第三方许可与声明。
 
