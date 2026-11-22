@@ -33,11 +33,13 @@ Windows 0.1.44 的下载包在 2026-11-19 前后共上传过五次，同名文�
 
 ## Mac 试用版
 
-[标镜 0.1.47 Mac 试用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.47)适用于 Apple 芯片 Mac，改进含乱码报价汇总表的读取和差额说明。第一次打开可能自动重读旧报价结果。
+[标镜 0.1.48 Mac 试用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.48)适用于 Apple 芯片 Mac。汇总表文字解码失败且缺少独立总价时，会保留「无法判断是否读全」的提示，方便回到原页核对。
 
-- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/biaojing-desktop-0.1.47-macos-arm64.zip)
-- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/biaojing-guide-0.1.47.docx)
-- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/SHA256SUMS.txt)
+- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.48/biaojing-desktop-0.1.48-macos-arm64.zip)
+- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.48/biaojing-guide-0.1.48.docx)
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.48/SHA256SUMS.txt)
+
+上一版见 [0.1.47 Mac 试用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.47)。从 0.1.46 或更早版本升级时，程序可能重读旧报价数据。
 
 ## 开通方式
 
