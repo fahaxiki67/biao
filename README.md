@@ -31,6 +31,14 @@
 
 Windows 0.1.44 的下载包在 2026-11-19 前后共上传过五次，同名文件内容不同；只有校验值为 `87437bb5…` 的是第五次（当前）版本，带单页重新识别、PDF 续读和本页 OCR。之前下载的包请按此核对，不一致就重新下载。今后安装包有任何改动都换新版本号、新标签发布，不再在原标签下替换附件。
 
+## Mac 试用版
+
+[标镜 0.1.47 Mac 试用版](https://github.com/fahaxiki67/biao/releases/tag/v0.1.47)适用于 Apple 芯片 Mac，改进含乱码报价汇总表的读取和差额说明。第一次打开可能自动重读旧报价结果。
+
+- [macOS 下载包](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/biaojing-desktop-0.1.47-macos-arm64.zip)
+- [一页使用说明（Word）](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/biaojing-guide-0.1.47.docx)
+- [SHA256 校验值](https://github.com/fahaxiki67/biao/releases/download/v0.1.47/SHA256SUMS.txt)
+
 ## 开通方式
 
 使用**本机授权文件**即可，不需要登录、不需要联网（账号登录方式仍保留）。本机授权文件由签发人发放，在“账号与会员 → 本机授权文件 → 导入授权文件…”导入一次后，不用登录、不用联网，到文件写明的到期日为止。不绑电脑的授权文件可以被转发使用，程序无法阻止；需要限制时可签发只限某台电脑的文件。
